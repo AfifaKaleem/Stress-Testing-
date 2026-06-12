@@ -1,2 +1,4 @@
+.history/
+code/.env
 .env
-history/
+.env.*
